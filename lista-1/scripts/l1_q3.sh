@@ -1,3 +1,2 @@
 #!/bin/bash
-
-grep ^\s*$ -c ../entrada
+grep ^\s*$ -c entrada

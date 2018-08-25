@@ -1,3 +1,2 @@
 #!/bin/bash
-
-grep atom -c ../entrada
+grep atom -c entrada

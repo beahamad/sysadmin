@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep -nhm5 atom ../entrada | tail -n1
+grep -nhm5 atom entrada | tail -n1

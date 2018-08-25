@@ -1,3 +1,2 @@
 #!/bin/bash
-
-grep -v '^$\|[aeiouAEIOU]' ../entrada
+grep -v '^$\|[aeiouAEIOU]' entrada
